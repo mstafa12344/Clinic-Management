@@ -1,0 +1,10 @@
+# ninja log v5
+3	138	6846973144701212	CMakeFiles/untitled.dir/user_mode/user_mode.c.obj	a94b92180dca14fd
+4	112	6846955949968880	CMakeFiles/untitled.dir/main.c.obj	d8b04396216b6ea1
+2	90	6846970077869422	CMakeFiles/untitled.dir/logain/logain.c.obj	c466d20affdd2d6d
+115	227	6846973473673121	untitled.exe	c43ee00daf8917ee
+4	114	6846973472567805	CMakeFiles/untitled.dir/admin/admin.c.obj	bb8bb0ff2b5795bf
+2	82	6847035184148000	CMakeFiles/untitled.dir/admin/admin.c.obj	bb8bb0ff2b5795bf
+82	174	6847035185036049	untitled.exe	c43ee00daf8917ee
+2	326	6848688886750820	CMakeFiles/untitled.dir/user_mode/user_mode.c.obj	a94b92180dca14fd
+327	683	6848688890282259	untitled.exe	c43ee00daf8917ee
