@@ -189,23 +189,23 @@ void Reserve_a_slot_with_the_doctor(void )
         {
             if(j==0)
             {
-                printf("slot from 2pm to 2:30pm\n");
+                printf("slot1 from 2pm to 2:30pm\n");
             }
             if(j==1)
             {
-                printf("slot from  2:30pm to 3pm\n");
+                printf("slot2 from  2:30pm to 3pm\n");
             }
             if(j==2)
             {
-                printf("slot from  3pm to 3:30pm\n");
+                printf("slot3 from  3pm to 3:30pm\n");
             }
             if(j==3)
             {
-                printf("slot from 4pm to 4:30pm\n");
+                printf("slot4 from 4pm to 4:30pm\n");
             }
             if(j==4)
             {
-                printf("slot from  4:30pm to 5pm\n");
+                printf("slot5 from  4:30pm to 5pm\n");
             }
 
         }
@@ -262,23 +262,23 @@ void Cancel_reservation(void )
         {
             if(j==0)
             {
-                printf("slot from 2pm to 2:30pm\n");
+                printf("slot1 from 2pm to 2:30pm\n");
             }
             if(j==1)
             {
-                printf("slot from  2:30pm to 3pm\n");
+                printf("slot2 from  2:30pm to 3pm\n");
             }
             if(j==2)
             {
-                printf("slot from  3pm to 3:30pm\n");
+                printf("slot3 from  3pm to 3:30pm\n");
             }
             if(j==3)
             {
-                printf("slot from 4pm to 4:30pm\n");
+                printf("slot4 from 4pm to 4:30pm\n");
             }
             if(j==4)
             {
-                printf("slot from  4:30pm to 5pm\n");
+                printf("slot5 from  4:30pm to 5pm\n");
             }
 
         }

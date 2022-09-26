@@ -9,7 +9,7 @@ void logain(void )
     printf("/**********************/\n");
     printf("/*welcom to the clinic*/\n");
     printf("/**********************/\n");
-    printf("admin or user!!!\n1-amin\n2-user\n");
+    printf("admin or user!!!\n1-admin\n2-user\n");
     scanf("%d",&U8ChoosVar);
 
     switch (U8ChoosVar)
