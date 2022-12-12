@@ -1,5 +1,5 @@
 # Clinic-Management
-this project has two modes admin mode and user mode and the user can choose between them
+Clinic Management System that's built with C and has two main modes.
 ## Admin mode
 The system asks for password, the default password is 1234. The system allows 3 trails for the password
 entry, if the entered password was incorrect for 3 consecutive times, the system shall close. After login
